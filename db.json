@@ -1,1 +1,137 @@
-Test
+[
+	{
+		"id": 1,
+		"city": "Tuscon",
+		"hotel_name": "Malesuada Augue Limited"
+	},
+	{
+		"id": 2,
+		"city": "Hollywood",
+		"hotel_name": "Nec Mollis Foundation"
+	},
+	{
+		"id": 3,
+		"city": "Chicago",
+		"hotel_name": "Pellentesque Tellus Sem Foundation"
+	},
+	{
+		"id": 4,
+		"city": "Montreal",
+		"hotel_name": "Sed Sapien Nunc Institute"
+	},
+	{
+		"id": 5,
+		"city": "San Diego",
+		"hotel_name": "Leo Vivamus Associates"
+	},
+	{
+		"id": 6,
+		"city": "Orlando",
+		"hotel_name": "Dapibus Id Consulting"
+	},
+	{
+		"id": 7,
+		"city": "Chicago Ohare",
+		"hotel_name": "Faucibus Leo In Corporation"
+	},
+	{
+		"id": 8,
+		"city": "New York",
+		"hotel_name": "Mattis Corp."
+	},
+	{
+		"id": 9,
+		"city": "Nashville",
+		"hotel_name": "Nullam Foundation"
+	},
+	{
+		"id": 10,
+		"city": "San Francisco",
+		"hotel_name": "Facilisis Facilisis Magna Industries"
+	},
+	{
+		"id": 11,
+		"city": "Miami Beach",
+		"hotel_name": "Enim Commodo Ltd"
+	},
+	{
+		"id": 12,
+		"city": "New Orleans",
+		"hotel_name": "Aliquet PC"
+	},
+	{
+		"id": 13,
+		"city": "Toronto",
+		"hotel_name": "Congue A Corporation"
+	},
+	{
+		"id": 14,
+		"city": "Seattle",
+		"hotel_name": "Interdum Feugiat Sed PC"
+	},
+	{
+		"id": 15,
+		"city": "Santa Monica",
+		"hotel_name": "Et Magnis Dis Corp."
+	},
+	{
+		"id": 16,
+		"city": "Atlanta",
+		"hotel_name": "Lorem Company"
+	},
+	{
+		"id": 17,
+		"city": "Boston",
+		"hotel_name": "Eu Tempor Erat Incorporated"
+	},
+	{
+		"id": 18,
+		"city": "Philadelphia",
+		"hotel_name": "A Auctor Ltd"
+	},
+	{
+		"id": 19,
+		"city": "Orlando",
+		"hotel_name": "Magna Malesuada Vel Inc."
+	},
+	{
+		"id": 20,
+		"city": "Orlando",
+		"hotel_name": "Augue Eu LLC"
+	},
+	{
+		"id": 21,
+		"city": "Orlando",
+		"hotel_name": "Orci Ut Consulting"
+	},
+	{
+		"id": 22,
+		"city": "Orlando",
+		"hotel_name": "Nullam Inc."
+	},
+	{
+		"id": 23,
+		"city": "Orlando",
+		"hotel_name": "Odio Phasellus Inc."
+	},
+	{
+		"id": 24,
+		"city": "Orlando",
+		"hotel_name": "Mattis Integer Eu Institute"
+	},
+	{
+		"id": 25,
+		"city": "Orlando",
+		"hotel_name": "Dis Parturient Montes Consulting"
+	},
+	{
+		"id": 26,
+		"city": "Orlando",
+		"hotel_name": "Ipsum Nunc Id Institute"
+	},
+	{
+		"id": 27,
+		"city": "Orlando",
+		"hotel_name": "Mollis Nec Corporation"
+	}
+]
